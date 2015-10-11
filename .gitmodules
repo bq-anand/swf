@@ -1,4 +1,4 @@
 [submodule "core"]
 	path = core
-	url = git@github.com:spirehq/backend-core.git
+	url = git@github.com:skgcorp/core.git
 	branch = master
